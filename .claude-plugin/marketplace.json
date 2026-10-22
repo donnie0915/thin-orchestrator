@@ -1,0 +1,14 @@
+{
+  "name": "thin-orchestrator",
+  "owner": {
+    "name": "donnie0915",
+    "url": "https://github.com/donnie0915"
+  },
+  "plugins": [
+    {
+      "name": "thin-orchestrator",
+      "source": "./",
+      "description": "Main session plans and accepts, a cheaper Sonnet subagent implements. A cost-aware delegation workflow for Claude Code."
+    }
+  ]
+}

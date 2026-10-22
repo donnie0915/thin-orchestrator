@@ -1,0 +1,13 @@
+{
+  "name": "thin-orchestrator",
+  "version": "0.1.0",
+  "description": "Main session plans and accepts, a cheaper Sonnet subagent implements. A cost-aware delegation workflow for Claude Code.",
+  "author": {
+    "name": "donnie0915",
+    "url": "https://github.com/donnie0915"
+  },
+  "homepage": "https://github.com/donnie0915/thin-orchestrator",
+  "repository": "https://github.com/donnie0915/thin-orchestrator",
+  "license": "MIT",
+  "keywords": ["orchestration", "subagent", "delegation", "workflow", "cost"]
+}
