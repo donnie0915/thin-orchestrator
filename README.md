@@ -1,5 +1,7 @@
 # thin-orchestrator
 
+English | [简体中文](README.zh-CN.md)
+
 **Your expensive model thinks. Your cheap model types.**
 
 A [Claude Code](https://claude.com/claude-code) skill + subagent that splits big coding tasks between two tiers:
